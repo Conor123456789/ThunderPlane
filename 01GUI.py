@@ -17,7 +17,7 @@ clock = pygame.time.Clock()
 
 if __name__ == '__main__':
 
-    # 开启消息循环
+    #开启消息循环
     while True:
 
         # 处理用户输入
